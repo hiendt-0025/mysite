@@ -1,0 +1,6 @@
+body{
+  background: white url("images/index.jpeg") no-repeat;
+}
+li a {
+  color: red;
+}
